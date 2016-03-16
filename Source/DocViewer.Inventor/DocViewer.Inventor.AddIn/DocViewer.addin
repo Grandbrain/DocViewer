@@ -1,0 +1,14 @@
+<Addin Type="Standard">
+  <ClassId>{13e401b1-b2da-48b1-ba31-70b73022ce2c}</ClassId>
+  <ClientId>{13e401b1-b2da-48b1-ba31-70b73022ce2c}</ClientId>
+  <DisplayName>DocViewer</DisplayName>
+  <Description Language="1049">Расширение DocViewer служит для просмотра документации</Description>
+  <Description>DocViewer extension is used for viewing documents</Description>
+  <Assembly>DocViewer.dll</Assembly>
+  <LoadOnStartUp>1</LoadOnStartUp>
+  <UserUnloadable>1</UserUnloadable>
+  <Hidden>0</Hidden>
+  <SupportedSoftwareVersionGreaterThan>15..</SupportedSoftwareVersionGreaterThan>
+  <DataVersion>1</DataVersion>
+  <UserInterfaceVersion>1</UserInterfaceVersion>
+</Addin>

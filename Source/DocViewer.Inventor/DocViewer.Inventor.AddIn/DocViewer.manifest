@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+
+  <assemblyIdentity name="DocViewer" version="1.0.0.0"></assemblyIdentity>
+
+  <clrClass clsid="{13e401b1-b2da-48b1-ba31-70b73022ce2c}" progid="DocViewer.StandardAddInServer" threadingModel="Both" name="DocViewer.StandardAddInServer" runtimeVersion=""></clrClass>
+
+  <file name="DocViewer.dll" hashalg="SHA1"></file>
+
+</assembly>
