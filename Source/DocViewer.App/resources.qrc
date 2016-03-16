@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/root">
+        <file>Resources/icon.ico</file>
+        <file>Resources/icon.png</file>
+        <file>Resources/ru.qm</file>
+        <file>Resources/en.qm</file>
+    </qresource>
+</RCC>

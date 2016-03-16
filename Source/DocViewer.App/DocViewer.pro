@@ -1,0 +1,9 @@
+QT                      += core gui widgets webenginewidgets
+TARGET                  = DocViewer
+TEMPLATE                = app
+CONFIG                  += c++11
+SOURCES                 += main.cpp window.cpp about.cpp
+HEADERS                 += window.h about.h
+FORMS                   += window.ui about.ui
+RESOURCES               += resources.qrc
+RC_FILE                 = resources.rc
