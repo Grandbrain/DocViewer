@@ -1,5 +1,8 @@
-[![Release](https://img.shields.io/badge/Release-v1.0.0-brightgreen.svg)](https://github.com/Grandbrain/DocViewer/releases)
-[![Licence](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/Grandbrain/DocViewer/blob/master/LICENSE)
+[![GitHub release](https://img.shields.io/github/release/Grandbrain/DocViewer.svg)](https://github.com/Grandbrain/DocViewer/releases)
+[![GitHub issues](https://img.shields.io/github/issues/Grandbrain/DocViewer.svg)](https://github.com/Grandbrain/DocViewer/issues)
+[![GitHub forks](https://img.shields.io/github/forks/Grandbrain/DocViewer.svg)](https://github.com/Grandbrain/DocViewer/network/members)
+[![GitHub stars](https://img.shields.io/github/stars/Grandbrain/DocViewer.svg)](https://github.com/Grandbrain/DocViewer/stargazers)
+[![GitHub license](https://img.shields.io/github/license/Grandbrain/DocViewer.svg)](https://github.com/Grandbrain/DocViewer/blob/master/LICENSE)
 
 # Welcome to DocViewer project!
 
