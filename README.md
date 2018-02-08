@@ -19,16 +19,14 @@ There are several ways to contribute to DocViewer project:
 ## Building
 
 *  Download and extract the [latest release](https://github.com/Grandbrain/DocViewer/releases) of the source code.
-*  Download and install the latest version of [Qt Community](https://www.qt.io/ru/download-open-source).
+*  Download and install the latest version of [Qt](https://www.qt.io/download).
 *  Download and install the latest version of [Microsoft Visual Studio](https://www.visualstudio.com/).
 *  Launch Qt Creator and open the project file "DocViewer.pro".
 *  Launch Visual Studio and open the solution file "DocViewer.Inventor.sln".
 *  Rebuild both projects by clicking "Rebuild" in the "Build" menu.
-*  Use the Inno Setup program scripts from the "Installation" folder to create the installation files.
 
 
 ## Usage
 
-* Install the application via system32.exe or system64.exe installation files.
-* Start the application via the Start menu or use it in Autodesk Inventor.
+* Start the application from the file system or use it in Autodesk Inventor.
 * Use the application controls to browse PDF documents.
